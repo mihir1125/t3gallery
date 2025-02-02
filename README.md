@@ -4,6 +4,7 @@
 
 - [x] Make it deploy (w/ vercel)
 - [x] Scaffold basic ui with mock data
+- [x] Tidy up build process
 - [ ] Actually set up a database (w/ vercel postgres)
 - [ ] Attach database to UI
 - [ ] Add authentication (w/ clerk)
@@ -13,4 +14,3 @@
 - [ ] Delete button (w/ Server actions)
 - [ ] Analytics (posthog)
 - [ ] Rate limiting (upstash)
-- 
