@@ -1,5 +1,4 @@
 import { getImage } from "~/server/queries";
-import Image from "next/image";
 import FullPageImageView from "~/components/full-image-page";
 
 export default async function PhotoPage({
